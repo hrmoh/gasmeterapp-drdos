@@ -6,7 +6,7 @@ This is the source code for a gas meter reading app (barcode based) I had develo
 
 I do not now recall even how I did compile this code (there must be some SDK and tools provided by vendors).
 
-It requires an Iran System compatible font to be installed on the device (FARSI.FNT or SAYEH.FNT). I may be able to find compiled binaries and installation instructions somewhere and publish them through releases.
+It requires an Iran System compatible font to be installed on the device (FARSI.FNT on root of drive B). I may be able to find compiled binaries and installation instructions somewhere and publish them through releases.
 
 Application end user manual in Persian is still available [here](http://arakara.gozir.com/products/3100/manual/).
 
