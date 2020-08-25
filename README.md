@@ -1,8 +1,6 @@
-# gasmeterapp-drdos
+# Persian Gas Metering App for Symbol PDT 3100 (DR-DOS)
 
-## Persian Gas Metering App for Symbol PDT 3100 (DR-DOS)
-
-This is the source code for a gas meter reading app (barcode based) I had developed around 2009 or so to use Symbol PDT 3100 handheld devices (DR-DOS based) for collecting gas meter data.
+This is the source code for a gas meter reading app (barcode based) I had developed around 2006 or earlier to use Symbol PDT 3100 handheld devices (DR-DOS based) for collecting gas meter data.
 
 I do not now recall even how I did compile this code (there must be some SDK and tools provided by vendors).
 
